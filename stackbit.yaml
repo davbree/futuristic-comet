@@ -32,7 +32,7 @@ pageData:
 models:
   config:
     type: config
-    label: Site Configuration
+    label: Site Configuration1
     fields:
       - type: string
         name: title
