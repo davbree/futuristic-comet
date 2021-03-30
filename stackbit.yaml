@@ -9,6 +9,7 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 logicFields:
+  - aaa
   - blog_feed_section.recent_count
   - hero_section.background.background_image_opacity
 pageData:
