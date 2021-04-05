@@ -18,7 +18,7 @@ pageData:
       - '[0].fields.titlea'
       - '[0].fields.sections'
       - '[0].fields.sections.items[0]'
-      - '[0].fields.sections.items[0].fiealds.title'
+      - '[0].fields.sections.items[0].fiealds.titzle'
       - '[0].fields.sections.items[0].fields.content'
       - '[0].fields.sections.items[1]'
       - '[0].fields.sections.items[1].fields.title'
